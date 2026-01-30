@@ -1,22 +1,4 @@
-# ⚠️ Repository Archived
-
-This repository has been **archived** and is no longer actively maintained.
-
-The **local MCP server** has been deprecated in favor of the **DevRev Remote MCP server**, which provides a more robust, secure, and scalable solution without requiring a locally hosted server.
-
-## Use Instead
-
-* **DevRev Remote MCP Server**
-* **Documentation:** [https://support.devrev.ai/en-US/devrev/article/ZNqaZTsx-remote-mcp-server](https://support.devrev.ai/en-US/devrev/article/ZNqaZTsx-remote-mcp-server)
-
-## Notes
-
-* This repository is **read-only** and kept for reference only.
-* No updates, fixes, or support will be provided.
-
----------------
-
-# DevRev MCP Server
+# DevRev MCP Server POCs
 
 ## Overview
 
